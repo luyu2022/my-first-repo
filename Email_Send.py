@@ -2,9 +2,9 @@ from email.message import EmailMessage
 from Python_App_PW_Gmail import password
 import ssl
 import smtplib
-email_sender='wangluyufl@gmail.com'
+email_sender='wly@gmail.com'
 email_password=password
-email_receiver='wangluyufl@yahoo.com'
+email_receiver='wly@yahoo.com'
 subject="You are hacked by python"
 body="""
 Surprise: you got the email from my python file Blar Blar Blar
