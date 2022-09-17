@@ -1,2 +1,2 @@
-password='otgl qhvu odtt gdht'
+password='wwwwwwwwwwww'
 print('password is in the file')
