@@ -25,8 +25,9 @@
 9. git merge
 10. git remote add origin https://github.com/luyu2022/my-first-repo.git
 11. git push -u origin master
+12. add command line in the local pc markdown file
+13. check git and github connection
+14. check pull
 
 ## Python programming practice
-add command line in the local pc markdown file
-check git and github connection
-check pull
+
