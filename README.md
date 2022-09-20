@@ -27,3 +27,4 @@
 11. git push -u origin master
 
 ## Python programming practice
+add command line in the local pc markdown file
