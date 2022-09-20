@@ -28,3 +28,4 @@
 
 ## Python programming practice
 add command line in the local pc markdown file
+check git and github connection
