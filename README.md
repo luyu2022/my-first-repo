@@ -1,8 +1,9 @@
 # My-first-repo
-## Linux command line practice
+##Unix command line practice
 -pwd
 -mkdir
 -cd
+-ls -alh
 -mv
 -rm
 -touch
@@ -11,6 +12,7 @@
 -cat
 -man
 -egrep
+-wget https://URL.../filename
 ## Git and github
 1. git init
 2. git status
