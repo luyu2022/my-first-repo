@@ -1,4 +1,4 @@
-# my-first-repo
+# My-first-repo
 ## Linux command line practice
-## git and github
-## python programming practice
+## Git and github
+## Python programming practice
