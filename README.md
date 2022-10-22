@@ -12,7 +12,7 @@
 -cat
 -man
 -egrep
--wget https://URL.../filename
+-wget 
 ## Git and github
 1. git init
 2. git status
